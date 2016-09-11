@@ -37,17 +37,17 @@ header, .navbar-default{
 	padding: 1% 0%;
 }
 						/* Seccion descripcion de la pagina */
-/* imagenes background del carrusel */
+/* imagenes background de trigo*/
 .bg-trigo{
 	background-image: url("../img/carousel-bg.jpg");
 	background-size: 100% 100%;
 }
 
-/* propiedades del titulo que va encima del carrusel */
+/* propiedades del titulo que va encima de la imagen de trigo*/
 .titulo{
 	font-size: 400%;
 }
-/* Seccion paleta de colores */
+                          /* Seccion paleta de colores */
 .paleta{
 	border: 1px solid black;
 	height: 80px;
@@ -55,7 +55,7 @@ header, .navbar-default{
 .unir{
 	padding-left: 13px !important;
 }
-/* Parte about us */
+                           /* Parte about us */
 .html{
 	width: 95%;
 }
@@ -71,7 +71,11 @@ header, .navbar-default{
 .pi{
 	width: 80%;
 }
-/* Parte what we do */
+                            /* Parte what we do */
 .bg-black{
 	background-color: black;
+}
+/* Parte our awesome team */
+.noneborder{
+	border: none !important;
 }
