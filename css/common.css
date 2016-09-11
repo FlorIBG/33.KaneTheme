@@ -1,0 +1,64 @@
+/* Displays */
+.inlineb{
+	display: inline-block;
+}
+/* Color de letras */
+.white{
+	color: white;
+}
+.red{
+	color: red;
+}
+.leading{
+	line-height: 255%;
+}
+/* Margin y Paddings */
+.mg-pg-o{
+	margin: 0% !important;
+	padding: 0% !important;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.mt-5{
+	margin-top: 5%;
+}
+.mb-5{
+	margin-bottom: 5%;
+}
+/* Backgrounds */
+/* Background de home y contact us */
+.bg-gray{
+	background-color: gray;
+}
+/* background de contact us */
+.bg-hands{
+	background-image:  url("../images/blog3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+}
+/* Bg footer */
+.bg-black{
+	background-color: black;
+}
+/* Fuentes */
+.open{
+	font-family: 'Muli', sans-serif;
+	font-size: 
+}
+                       /* Header */
+/* Barra de navegacion */
+.navbar.navbar-default{
+	width: 100% !important;
+}
+                   /* Section barra de busqueda y horario */
+/* Barra de busqueda */
+.lupa{
+	background-image:  url("../images/search.png");
+	background-repeat: no-repeat;
+	background-position: 96%;
+}
+input{
+	width: 100% !important;
+}                   

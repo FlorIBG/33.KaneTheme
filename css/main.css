@@ -1,0 +1,77 @@
+*{
+	font-family: "Roboto";
+}
+/* Margin y paddings */
+.mt-10{
+	margin-top: 10%;
+}
+.mt-5{
+	margin-top: 5%;
+}
+.mt-2{
+	margin-top: 1%;
+}
+.ml-5{
+	margin-left: 1%;
+}
+.mg-0{
+	margin: 0% !important;
+}
+.pd-0{
+	padding: 0% !important;
+}
+.plyr-5{
+	padding: 0% 15%;
+}
+/* colores de letras */
+.white{
+	color: white;
+}
+.gray{
+	color: gray;
+}
+/* menu de navegacion */
+header, .navbar-default{
+	background-color: green;
+	border: none;
+	padding: 1% 0%;
+}
+						/* Seccion descripcion de la pagina */
+/* imagenes background del carrusel */
+.bg-trigo{
+	background-image: url("../img/carousel-bg.jpg");
+	background-size: 100% 100%;
+}
+
+/* propiedades del titulo que va encima del carrusel */
+.titulo{
+	font-size: 400%;
+}
+/* Seccion paleta de colores */
+.paleta{
+	border: 1px solid black;
+	height: 80px;
+}
+.unir{
+	padding-left: 13px !important;
+}
+/* Parte about us */
+.html{
+	width: 95%;
+}
+.css{
+	width: 90%;
+}
+.JS{
+	width: 60%;
+}
+.PHP{
+	width: 70%;
+}
+.pi{
+	width: 80%;
+}
+/* Parte what we do */
+.bg-black{
+	background-color: black;
+}
