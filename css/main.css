@@ -42,6 +42,9 @@
 .navyblue{
 	color: #000066;
 }
+.orange{
+	color: orange;
+}
 /* menu de navegacion */
 header, .navbar-default{
 	background-color: green;
