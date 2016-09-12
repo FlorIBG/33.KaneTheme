@@ -191,6 +191,10 @@ header, .navbar-default{
 .noneborder{
 	border: none !important;
 }
+.dot{
+	width: 40%;
+	border: 1px dashed red;
+}
 /* Parte precios */
 .greenborder{
 	border: 2px solid green;
