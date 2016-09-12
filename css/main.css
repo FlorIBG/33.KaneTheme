@@ -1,6 +1,9 @@
 *{
 	font-family: "Roboto";
 }
+.btn{
+	cursor: pointer !important;
+}
 /* Margin y paddings */
 .mt-10{
 	margin-top: 10%;
@@ -31,6 +34,15 @@
 }
 .ptyb-20{
 	padding: 20% 0%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.plyr-15{
+	padding: 0% 5%;
+}
+.pr-0{
+	padding-right: 0% !important;
 }
 .plyr-5{
 	padding: 0% 15%;
@@ -123,4 +135,8 @@ header, .navbar-default{
 .bg-trigo{
 	background-image: url("../img/img-divider-img.jpg");
 	background-repeat: repeat-x;
+}
+/* Footer */
+.footerhr{
+
 }
