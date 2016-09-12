@@ -1,0 +1,21 @@
+@media  screen and (max-width:768px){
+	.titulo{
+		margin-top: 20%;
+		font-size: 150%;
+	}
+	p, span{
+		font-size: 100%;
+	}
+	.paleta{
+		height: 50px;
+	}
+	.mt-2{
+		margin-top: 0%;
+	}
+	.width50{
+		width: 100% !important;
+	}
+	.ml-15{
+		margin-left: 0% !important;
+	}
+}

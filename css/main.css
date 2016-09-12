@@ -165,6 +165,9 @@ header, .navbar-default{
 	background-color: #DC403B;
 }
                            /* Parte about us */
+.lineasubtitulos{
+	width: 40%;
+}
 .html{
 	width: 95%;
 }
@@ -192,6 +195,10 @@ header, .navbar-default{
 .greenborder{
 	border: 1px solid green;
 }
+/* Efecto hover borde verde */
+.greenborder:hover{
+	border: 1px solid orange;
+}
 .bg-navyblue{
 	background-color: #000066;
 }
@@ -199,7 +206,7 @@ header, .navbar-default{
 	background-color: 	#a5682a;
 }
 .bg-green{
-	background-color: green;
+	background-color: #31B404;
 }
 .bg-white{
 	background-color: white;
@@ -211,11 +218,11 @@ header, .navbar-default{
 	width: 24% !important;
 }
 /* Seccion redes sociales*/
-.bg-trigo{
+.bg-trigo1{
 	background-image: url("../img/img-divider-img.jpg");
 	background-repeat: repeat-x;
 }
 /* Footer */
 .footerhr{
-
+	width: 25%;
 }
