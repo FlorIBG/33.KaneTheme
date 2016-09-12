@@ -193,11 +193,11 @@ header, .navbar-default{
 }
 /* Parte precios */
 .greenborder{
-	border: 1px solid green;
+	border: 2px solid green;
 }
 /* Efecto hover borde verde */
 .greenborder:hover{
-	border: 1px solid orange;
+	border: 2px solid orange;
 }
 .bg-navyblue{
 	background-color: #000066;
@@ -220,7 +220,7 @@ header, .navbar-default{
 /* Seccion redes sociales*/
 .bg-trigo1{
 	background-image: url("../img/img-divider-img.jpg");
-	background-repeat: repeat-x;
+	
 }
 /* Footer */
 .footerhr{

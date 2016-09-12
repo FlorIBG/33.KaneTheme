@@ -15,6 +15,23 @@
 	.width50{
 		width: 100% !important;
 	}
+	.ml-15,.ml-5{
+		margin-left: 0% !important;
+	}
+	.plyr-xs{
+		padding: 0% 30%;
+	}
+	.input-group{
+		padding: 0% !important;
+	}
+	.plyr-5{
+		padding: 0%;
+	}
+	.mt-xs{
+		margin-top: 5%;
+	}
+}
+@media  screen and (min-width:769px) and (max-width:991px){
 	.ml-15{
 		margin-left: 0% !important;
 	}
