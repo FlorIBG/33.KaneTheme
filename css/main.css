@@ -29,6 +29,9 @@
 .ptyb-10{
 	padding: 10% 0%;
 }
+.ptyb-20{
+	padding: 20% 0%;
+}
 .plyr-5{
 	padding: 0% 15%;
 }
@@ -115,4 +118,9 @@ header, .navbar-default{
 }
 .width50{
 	width: 24% !important;
+}
+/* Seccion redes sociales*/
+.bg-trigo{
+	background-image: url("../img/img-divider-img.jpg");
+	background-repeat: repeat-x;
 }
