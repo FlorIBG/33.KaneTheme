@@ -14,11 +14,20 @@
 .ml-5{
 	margin-left: 1%;
 }
+.ml-15{
+	margin-left: 3% !important;
+}
+.mb-5{
+	margin-bottom: 5%;
+}
 .mg-0{
 	margin: 0% !important;
 }
 .pd-0{
 	padding: 0% !important;
+}
+.ptyb-10{
+	padding: 10% 0%;
 }
 .plyr-5{
 	padding: 0% 15%;
@@ -29,6 +38,9 @@
 }
 .gray{
 	color: gray;
+}
+.navyblue{
+	color: #000066;
 }
 /* menu de navegacion */
 header, .navbar-default{
@@ -78,4 +90,26 @@ header, .navbar-default{
 /* Parte our awesome team */
 .noneborder{
 	border: none !important;
+}
+/* Parte precios */
+.greenborder{
+	border: 1px solid green;
+}
+.bg-navyblue{
+	background-color: #000066;
+}
+.bg-brown{
+	background-color: 	#a5682a;
+}
+.bg-green{
+	background-color: green;
+}
+.bg-white{
+	background-color: white;
+}
+.precio{
+	font-size: 250%;
+}
+.width50{
+	width: 24% !important;
 }
